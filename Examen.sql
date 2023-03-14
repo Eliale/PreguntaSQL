@@ -36,3 +36,5 @@ SELECT  s.Name ,dbo.getGradeFun(s.Marks)as Calificacion, s.Marks from Students A
 order by Calificacion desc , s.Name;
 
 Soy una rama extra
+
+Rama B prueba desde Visual Code
